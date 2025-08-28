@@ -2,6 +2,12 @@
   "buildTargets": [
     "./authoring/XmCloudAuthoring.sln"
   ],
+  "renderingHosts": {
+    "dotnet": {
+      "path": "./headapps/aspnet-core-starter",
+      "enabled": false
+    }
+  },
   "postActions": {
     "actions": {
       "warmUpCm": {
