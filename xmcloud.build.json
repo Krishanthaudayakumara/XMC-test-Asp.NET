@@ -18,5 +18,13 @@
         "indexNames": []
       }
     }
+  },
+  "renderingHosts": {
+    "dotnet": {
+      "path": "./headapps/aspnet-core-starter",
+      "nodeVersion": "18",
+      "enabled": true,
+      "type": "sxa"
+    }
   }
 }
