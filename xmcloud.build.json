@@ -5,7 +5,7 @@
   "renderingHosts": {
     "dotnet": {
       "path": "./headapps/aspnet-core-starter",
-      "enabled": false
+      "enabled": true
     }
   },
   "postActions": {
